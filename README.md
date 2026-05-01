@@ -60,10 +60,9 @@ Future extensions of this project include pose estimation for body-specific moti
 
 Repository Structure
 motion-analysis/
-│
-├── optical_flow.ipynb        # Main notebook
-├── optical_flow_output.mp4   # Side-by-side output video
-└── README.md
+1.optical_flow.ipynb        # Main notebook
+2.optical_flow_output.mp4   # Side-by-side output video
+3.README.md
 
 Author
 Isaac Mutuma — Computer Science and Engineering, Pusan National University
